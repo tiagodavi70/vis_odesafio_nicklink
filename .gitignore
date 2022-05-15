@@ -161,3 +161,5 @@ cython_debug/
 
 # Riot API Key (single line only format)
 apikey.txt
+matches/
+timelines/

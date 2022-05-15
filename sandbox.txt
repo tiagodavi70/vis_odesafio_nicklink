@@ -1,0 +1,33 @@
+
+criar esquema de cor com as cores do jax, ver a imagem e ver o q acontece
+
+visualização
+ticks de vitória e derrota (para a timeline simples)
+linha do tempo com o horário de início e fim, para ajustar com o tempo da live
+    Rankup
+    KDA
+    visionScore
+    turretsLost
+    bountyLevel
+    damageDealtToTurrets
+
+
+verificar o adversário de lane (matchups e afins)
+
+ouro e kill por minuto - comparar somente o total pode levar ao erro
+posição - e como mapear? Qual minimapa usar?
+duração da partida (gameStartTimestamp + gameDuration)
+
+turretsLost
+bountyLevel
+damageDealtToTurrets
+damageDealtToObjectives
+damageDealtToBuildings
+
+challenges.damagePerMinute
+           goldPerMinute
+           visionScorePerMinute
+           visionScoreAdvantageLaneOpponent
+           kda
+           maxCsAdvantageOnLaneOpponent
+           bountyGold

@@ -12,10 +12,12 @@ Site e código para apresentação das visualizações do desafio do não ranque
 * como foram as derrotas
 
 ## Roadmap
-* Descobrir o ID
-* Descobrir as partidas
-* Recuperar o timeline de todas as partidas (baixar em disco)
+* Descobrir o ID (feito)
+* Descobrir as partidas (feito)
+* Recuperar o timeline de todas as partidas (baixar em disco) (precisa da correção da data)
 * Fazer tratamento de dados
 * Avaliar visualizações
+    * Criar esquema de cor
+    * Avaliar animações no D3
 * Criar modelo para o site
 * Publicar
