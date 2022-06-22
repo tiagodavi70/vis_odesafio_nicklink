@@ -18,16 +18,3 @@ ouro e kill por minuto - comparar somente o total pode levar ao erro
 posição - e como mapear? Qual minimapa usar?
 duração da partida (gameStartTimestamp + gameDuration)
 
-turretsLost
-bountyLevel
-damageDealtToTurrets
-damageDealtToObjectives
-damageDealtToBuildings
-
-challenges.damagePerMinute
-           goldPerMinute
-           visionScorePerMinute
-           visionScoreAdvantageLaneOpponent
-           kda
-           maxCsAdvantageOnLaneOpponent
-           bountyGold
